@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Desktop\учеба\Прога\3сем\курсовая 3 семестр\packman\packman\Source.cpp(55,1): warning C4305: +=: усечение из "double" в "float"
+D:\Desktop\учеба\Прога\3сем\курсовая 3 семестр\packman\packman\Source.cpp(218,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Desktop\учеба\Прога\3сем\курсовая 3 семестр\packman\packman\Source.cpp(290,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Desktop\учеба\Прога\3сем\курсовая 3 семестр\packman\packman\Source.cpp(290,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  packman.vcxproj -> D:\Desktop\учеба\Прога\3сем\курсовая 3 семестр\packman\x64\Debug\packman.exe
